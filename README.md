@@ -1,5 +1,5 @@
 The basic Quizz application but with a bit mix of Japanese Language Learning
-this applicaiton is helpful for the people who wants to crack JLPT N5 or want to learn Japanese.
+this applicaiton is helpful for the people who wants to crack JLPT N5 or wants to learn Japanese.
 
 The features of this applicaitons are given below:
  1. JLPT N5 level Kanji quiz
